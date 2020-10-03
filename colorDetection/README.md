@@ -1,5 +1,5 @@
-## Open- CV
-### Color Detection
+# Open- CV
+## Color Detection
 
 The file of ColorD is with a code to detect single color at a time.
 There is a hue to drag for different colors and it helps to differentiate between different colors.
